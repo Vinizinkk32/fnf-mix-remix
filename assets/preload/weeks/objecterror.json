@@ -1,32 +1,32 @@
 {
 	"songs": [
 		[
-			"Tutorial",
-			"gf",
+			"Object Error",
+			"lila",
 			[
-				165,
-				0,
-				77
+				126,
+				92,
+				149
 			]
 		]
 	],
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"difficulties": "",
+	"weekBackground": "",
+	"difficulties": "Normal, Hard",
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"storyName": "Prologue",
-	"weekName": "Week 0",
+	"storyName": "",
+	"weekName": "Object Error",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"hideStoryMode": false,
-	"weekBefore": "tutorial",
+	"hideStoryMode": true,
+	"weekBefore": "week2sp",
 	"startUnlocked": true
 }

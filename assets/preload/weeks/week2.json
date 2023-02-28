@@ -1,22 +1,43 @@
 {
-	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
-	],
-
-	"weekCharacters": [
-		"spooky",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "halloween",
-
 	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
+	"hideFreeplay": false,
+	"weekBackground": "Week 2",
+	"weekBefore": "dadbattle(ap)",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Spookeez",
+			"spooky",
+			[
+				255,
+				151,
+				40
+			]
+		],
+		[
+			"S.O.S",
+			"lelaom",
+			[
+				69,
+				53,
+				83
+			]
+		],
+		[
+			"Sickly Sour",
+			"lila",
+			[
+				126,
+				92,
+				149
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Week 2"
 }
